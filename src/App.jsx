@@ -27,7 +27,7 @@ const webProjects = [
   { name: 'Trailflix',
     description: 'Sit down, relax and enjoy this Netflix clone.',
     technologies: ['React', 'Vite', 'Tailwind', 'API'],
-    url: 'https://matiashaddad.github.io/' },
+    url: 'https://matiashaddad.github.io/trailflix/' },
   { name: 'Spotify Clone',
     description: 'Listen to your favourite tunes on this Spotify clone.',
     technologies: ['React', 'Vite', 'Tailwind'],
