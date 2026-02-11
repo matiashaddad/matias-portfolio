@@ -8,6 +8,10 @@ const Github = (props) => (
 
 // 1. DATA SCIENCE PROJECTS
 const dataProjects = [
+  { name: 'SQL-Driven-Finance-Dashboard',
+    description: 'Shows finance data to calculate spending per category.',
+    technologies: ['Python', 'React', 'JavaScript', 'Node.js'],
+    url: 'https://matiashaddad.github.io/SQL-Driven-Finance-Dashboard/' },
   { name: 'Judged',
     description: 'Give FL citizens legal aid when a loved one is arrested.',
     technologies: ['Python', 'React', 'JavaScript', 'Node.js'],
